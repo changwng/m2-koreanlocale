@@ -20,8 +20,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/HirokazuNishi/m2-japaneselocale/issues",
-    "source": "https://github.com/HirokazuNishi/m2-japaneselocale"
+    "issues": "https://github.com/changwng/m2-koreanlocale/issues",
+    "source": "https://github.com/changwng/m2-koreanlocale"
   },
   "require": {
     "magento/framework": "100.*"
