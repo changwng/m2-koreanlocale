@@ -1,6 +1,7 @@
 {
   "name": "changwng/m2-koreanlocale",
   "description": "Korean Language Pack for Magento2",
+  "minimum-stability": "dev",
   "keywords": [
     "magento2",
     "translation"
