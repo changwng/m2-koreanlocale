@@ -1,4 +1,4 @@
-changwng Magento 2 Korean Language Pack (ko_KR)
+Magento 2 Korean Language Pack (ko_KR)
 
 https://github.com/changwng/m2-koreanlocale
  
