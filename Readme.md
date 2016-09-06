@@ -4,7 +4,7 @@ https://github.com/changwng/m2-koreanlocale
  
 
 
-1. Manual Install
+1. Manual Install <br/>
    1.1 copy to app\i18n\changwng\ko_kr 에 압축 해제 <br/>
    1.2 php bin/magento setup:upgrade <br/>
    1.3 php bin/magento cache:clean <br/>
